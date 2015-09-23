@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<InformationGraphic>
+<GroupedBarChart BarDirection="horizontal">
+        <Caption>
+                <Content>The Price to Eat</Content>
+        </Caption>
+        <MeasurementAxis Length="7.41">
+        </MeasurementAxis>
+        <BarAxis Length="6.74">
+        </BarAxis>
+    <Legend>
+            <Series>
+                <Color>0</Color>
+                <Annotation>
+                        <Content>Iraq</Content>
+                        <Color>0</Color>
+                        <Bold>false</Bold>
+                </Annotation>
+            </Series>
+            <Series>
+                <Color>76</Color>
+                <Annotation>
+                        <Content>United States</Content>
+                        <Color>0</Color>
+                        <Bold>false</Bold>
+                </Annotation>
+            </Series>
+  </Legend>
+<Group>
+        <Bar>
+                <Color>0</Color>
+                <Height>0.92</Height>
+                <AxisDistance>0.25</AxisDistance>
+                <SightLine>false</SightLine>
+                <Annotation>
+                        <Content>$0.24</Content>
+                        <Color>0</Color>
+                        <Bold>false</Bold>
+                </Annotation>
+        </Bar>
+        <Bar>
+                <Color>76</Color>
+                <Height>3.56</Height>
+                <AxisDistance>1.13</AxisDistance>
+                <SightLine>false</SightLine>
+                <Annotation>
+                        <Content>$0.87</Content>
+                        <Color>0</Color>
+                        <Bold>false</Bold>
+                </Annotation>
+        </Bar>
+                <Label>
+                        <Content>Oranges</Content>
+                        <Color>0</Color>
+                        <Bold>false</Bold>
+                </Label>
+</Group>
+<Group>
+        <Bar>
+                <Color>0</Color>
+                <Height>2.50</Height>
+                <AxisDistance>2.01</AxisDistance>
+                <SightLine>false</SightLine>
+                <Annotation>
+                        <Content>$0.49</Content>
+                        <Color>0</Color>
+                        <Bold>false</Bold>
+                </Annotation>
+        </Bar>
+        <Bar>
+                <Color>76</Color>
+                <Height>3.92</Height>
+                <AxisDistance>2.89</AxisDistance>
+                <SightLine>false</SightLine>
+                <Annotation>
+                        <Content>$0.95</Content>
+                        <Color>0</Color>
+                        <Bold>false</Bold>
+                </Annotation>
+        </Bar>
+                <Label>
+                        <Content>Apples</Content>
+                        <Color>0</Color>
+                        <Bold>false</Bold>
+                </Label>
+</Group>
+<Group>
+        <Bar>
+                <Color>0</Color>
+                <Height>1.80</Height>
+                <AxisDistance>3.77</AxisDistance>
+                <SightLine>false</SightLine>
+                <Annotation>
+                        <Content>$0.40</Content>
+                        <Color>0</Color>
+                        <Bold>false</Bold>
+                </Annotation>
+        </Bar>
+        <Bar>
+                <Color>76</Color>
+                <Height>2.33</Height>
+                <AxisDistance>4.66</AxisDistance>
+                <SightLine>false</SightLine>
+                <Annotation>
+                        <Content>$0.47</Content>
+                        <Color>0</Color>
+                        <Bold>false</Bold>
+                </Annotation>
+        </Bar>
+                <Label>
+                        <Content>Bananas</Content>
+                        <Color>0</Color>
+                        <Bold>false</Bold>
+                </Label>
+</Group>
+<Group>
+        <Bar>
+                <Color>0</Color>
+                <Height>0.92</Height>
+                <AxisDistance>5.54</AxisDistance>
+                <SightLine>false</SightLine>
+                <Annotation>
+                        <Content>$0.24</Content>
+                        <Color>0</Color>
+                        <Bold>false</Bold>
+                </Annotation>
+        </Bar>
+        <Bar>
+                <Color>76</Color>
+                <Height>7.44</Height>
+                <AxisDistance>6.42</AxisDistance>
+                <SightLine>false</SightLine>
+                <Annotation>
+                        <Content>$1.66</Content>
+                        <Color>0</Color>
+                        <Bold>false</Bold>
+                </Annotation>
+        </Bar>
+                <Label>
+                        <Content>Tomatoes</Content>
+                        <Color>0</Color>
+                        <Bold>false</Bold>
+                </Label>
+</Group>
+<Group>
+        <Bar>
+                <Color>0</Color>
+                <Height>0.56</Height>
+                <AxisDistance>7.30</AxisDistance>
+                <SightLine>false</SightLine>
+                <Annotation>
+                        <Content>$0.16</Content>
+                        <Color>0</Color>
+                        <Bold>false</Bold>
+                </Annotation>
+        </Bar>
+        <Bar>
+                <Color>76</Color>
+                <Height>2.15</Height>
+                <AxisDistance>8.18</AxisDistance>
+                <SightLine>false</SightLine>
+                <Annotation>
+                        <Content>$0.46</Content>
+                        <Color>0</Color>
+                        <Bold>false</Bold>
+                </Annotation>
+        </Bar>
+                <Label>
+                        <Content>Potatoes</Content>
+                        <Color>0</Color>
+                        <Bold>false</Bold>
+                </Label>
+</Group>
+<Group>
+        <Bar>
+                <Color>0</Color>
+                <Height>4.09</Height>
+                <AxisDistance>9.07</AxisDistance>
+                <SightLine>false</SightLine>
+                <Annotation>
+                        <Content>$0.97</Content>
+                        <Color>0</Color>
+                        <Bold>false</Bold>
+                </Annotation>
+        </Bar>
+        <Bar>
+                <Color>76</Color>
+                <Height>4.80</Height>
+                <AxisDistance>9.95</AxisDistance>
+                <SightLine>false</SightLine>
+                <Annotation>
+                        <Content>$1.03</Content>
+                        <Color>0</Color>
+                        <Bold>false</Bold>
+                </Annotation>
+        </Bar>
+                <Label>
+                        <Content>Chicken</Content>
+                        <Color>0</Color>
+                        <Bold>false</Bold>
+                </Label>
+</Group>
+<Group>
+        <Bar>
+                <Color>0</Color>
+                <Height>3.74</Height>
+                <AxisDistance>10.83</AxisDistance>
+                <SightLine>false</SightLine>
+                <Annotation>
+                        <Content>$0.89</Content>
+                        <Color>0</Color>
+                        <Bold>false</Bold>
+                </Annotation>
+        </Bar>
+        <Bar>
+                <Color>76</Color>
+                <Height>4.27</Height>
+                <AxisDistance>11.71</AxisDistance>
+                <SightLine>false</SightLine>
+                <Annotation>
+                        <Content>$0.99</Content>
+                        <Color>0</Color>
+                        <Bold>false</Bold>
+                </Annotation>
+        </Bar>
+                <Label>
+                        <Content>A Dozen Eggs</Content>
+                        <Color>0</Color>
+                        <Bold>false</Bold>
+                </Label>
+</Group>
+</GroupedBarChart>
+</InformationGraphic>

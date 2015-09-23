@@ -1,0 +1,1745 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<InformationGraphic>
+<LineGraph>
+        <Caption>
+                <Content>Oceans levels rising</Content>
+                <Noun/>
+                <Verb/>
+                <Adjective/>
+                <Value/>
+                <Time/>
+        </Caption>
+        <Descriptions>
+                <Description>
+                        <Content>Sea levels fluctuate around the globe, but oceanographers believe they are rising about 0.04_0.09 of an inch each year. In the Seattle area, for example, the Pacific Ocean has risen nearly 9 inches over the past century. Annual difference from Seattle's 1899 sea level, in inches:</Content>
+                        <Noun/>
+                        <Verb/>
+                        <Adjective/>
+                        <Value/>
+                        <Time/>
+                </Description>
+        </Descriptions>
+        <TextInGraphic/>
+        <TextUnderGraphic/>
+<XAxis Length= "455">
+                <Tickmark>
+                        <TickLabelled>true</TickLabelled>
+                        <TickLabel>1900</TickLabel>
+                        <GridLine>false</GridLine>
+                        <Coord><X>0</X><Y>0</Y></Coord>
+                </Tickmark>
+                <Tickmark>
+                        <TickLabelled>true</TickLabelled>
+                        <TickLabel>'10</TickLabel>
+                        <GridLine>false</GridLine>
+                        <Coord><X>50</X><Y>0</Y></Coord>
+                </Tickmark>
+                <Tickmark>
+                        <TickLabelled>true</TickLabelled>
+                        <TickLabel>'20</TickLabel>
+                        <GridLine>false</GridLine>
+                        <Coord><X>91</X><Y>0</Y></Coord>
+                </Tickmark>
+                <Tickmark>
+                        <TickLabelled>true</TickLabelled>
+                        <TickLabel>'30</TickLabel>
+                        <GridLine>false</GridLine>
+                        <Coord><X>132</X><Y>0</Y></Coord>
+                </Tickmark>
+                <Tickmark>
+                        <TickLabelled>true</TickLabelled>
+                        <TickLabel>'40</TickLabel>
+                        <GridLine>false</GridLine>
+                        <Coord><X>173</X><Y>0</Y></Coord>
+                </Tickmark>
+                <Tickmark>
+                        <TickLabelled>true</TickLabelled>
+                        <TickLabel>'50</TickLabel>
+                        <GridLine>false</GridLine>
+                        <Coord><X>214</X><Y>0</Y></Coord>
+                </Tickmark>
+                <Tickmark>
+                        <TickLabelled>true</TickLabelled>
+                        <TickLabel>'60</TickLabel>
+                        <GridLine>false</GridLine>
+                        <Coord><X>256</X><Y>0</Y></Coord>
+                </Tickmark>
+                <Tickmark>
+                        <TickLabelled>true</TickLabelled>
+                        <TickLabel>'70</TickLabel>
+                        <GridLine>false</GridLine>
+                        <Coord><X>297</X><Y>0</Y></Coord>
+                </Tickmark>
+                <Tickmark>
+                        <TickLabelled>true</TickLabelled>
+                        <TickLabel>'80</TickLabel>
+                        <GridLine>false</GridLine>
+                        <Coord><X>338</X><Y>0</Y></Coord>
+                </Tickmark>
+                <Tickmark>
+                        <TickLabelled>true</TickLabelled>
+                        <TickLabel>'90 2000 '03</TickLabel>
+                        <GridLine>false</GridLine>
+                        <Coord><X>379</X><Y>0</Y></Coord>
+                </Tickmark>
+                <Tickmark>
+                        <TickLabelled>true</TickLabelled>
+                        <TickLabel>'90 2000 '03</TickLabel>
+                        <GridLine>false</GridLine>
+                        <Coord><X>420</X><Y>0</Y></Coord>
+                </Tickmark>
+                <Tickmark>
+                        <TickLabelled>true</TickLabelled>
+                        <TickLabel>'90 2000 '03</TickLabel>
+                        <GridLine>false</GridLine>
+                        <Coord><X>431</X><Y>0</Y></Coord>
+                </Tickmark>
+</XAxis>
+<YAxis Length="270">
+                <Tickmark>
+                        <TickLabelled>true</TickLabelled>
+                        <TickLabel>-2</TickLabel>
+                        <TickValue>-2.00</TickValue>
+                        <GridLine>false</GridLine>
+                        <Coord><X>0</X><Y>0</Y></Coord>
+                </Tickmark>
+                <Tickmark>
+                        <TickLabelled>true</TickLabelled>
+                        <TickLabel>0</TickLabel>
+                        <TickValue>0.00</TickValue>
+                        <GridLine>false</GridLine>
+                        <Coord><X>0</X><Y>45</Y></Coord>
+                </Tickmark>
+                <Tickmark>
+                        <TickLabelled>true</TickLabelled>
+                        <TickLabel>2</TickLabel>
+                        <TickValue>2.00</TickValue>
+                        <GridLine>false</GridLine>
+                        <Coord><X>0</X><Y>85</Y></Coord>
+                </Tickmark>
+                <Tickmark>
+                        <TickLabelled>true</TickLabelled>
+                        <TickLabel>4</TickLabel>
+                        <TickValue>4.00</TickValue>
+                        <GridLine>false</GridLine>
+                        <Coord><X>0</X><Y>120</Y></Coord>
+                </Tickmark>
+                <Tickmark>
+                        <TickLabelled>true</TickLabelled>
+                        <TickLabel>6</TickLabel>
+                        <TickValue>6.00</TickValue>
+                        <GridLine>false</GridLine>
+                        <Coord><X>0</X><Y>160</Y></Coord>
+                </Tickmark>
+                <Tickmark>
+                        <TickLabelled>true</TickLabelled>
+                        <TickLabel>8</TickLabel>
+                        <TickValue>8.00</TickValue>
+                        <GridLine>false</GridLine>
+                        <Coord><X>0</X><Y>200</Y></Coord>
+                </Tickmark>
+                <Tickmark>
+                        <TickLabelled>true</TickLabelled>
+                        <TickLabel>10</TickLabel>
+                        <TickValue>10.00</TickValue>
+                        <GridLine>false</GridLine>
+                        <Coord><X>0</X><Y>240</Y></Coord>
+                </Tickmark>
+</YAxis>
+<SamplePoint>
+	<Coord><X>5</X><Y>78</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content>1.97</Content>
+		<Color>0</Color>
+		<Bold>false</Bold>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>7</X><Y>28</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>8</X><Y>36</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>11</X><Y>64</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>12</X><Y>65</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>15</X><Y>53</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>16</X><Y>52</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>19</X><Y>77</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>20</X><Y>76</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>21</X><Y>76</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>25</X><Y>74</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>30</X><Y>91</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>31</X><Y>93</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>32</X><Y>91</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>36</X><Y>76</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>37</X><Y>74</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>39</X><Y>78</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>40</X><Y>81</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>49</X><Y>44</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>50</X><Y>44</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>55</X><Y>46</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>56</X><Y>45</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>63</X><Y>102</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>64</X><Y>105</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>65</X><Y>102</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>74</X><Y>36</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>75</X><Y>31</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>78</X><Y>94</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>79</X><Y>89</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>85</X><Y>54</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>86</X><Y>53</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>89</X><Y>56</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>90</X><Y>57</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>94</X><Y>41</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>95</X><Y>44</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>98</X><Y>53</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>99</X><Y>55</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>103</X><Y>31</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>104</X><Y>36</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>106</X><Y>76</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>114</X><Y>85</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>115</X><Y>84</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>124</X><Y>35</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>125</X><Y>35</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>127</X><Y>72</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>131</X><Y>79</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>133</X><Y>81</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>139</X><Y>85</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>140</X><Y>86</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>143</X><Y>93</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>144</X><Y>94</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>151</X><Y>69</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>152</X><Y>68</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>156</X><Y>87</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>157</X><Y>88</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>163</X><Y>72</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>164</X><Y>71</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>172</X><Y>149</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>173</X><Y>150</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>177</X><Y>102</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>184</X><Y>79</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>185</X><Y>77</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>189</X><Y>99</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>190</X><Y>100</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>193</X><Y>101</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>195</X><Y>100</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>196</X><Y>99</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>197</X><Y>98</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>201</X><Y>117</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>202</X><Y>114</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>204</X><Y>82</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>205</X><Y>93</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>211</X><Y>133</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>212</X><Y>134</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>216</X><Y>115</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>217</X><Y>117</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>222</X><Y>138</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>223</X><Y>141</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>224</X><Y>144</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>225</X><Y>138</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>228</X><Y>89</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>229</X><Y>88</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>240</X><Y>173</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>241</X><Y>174</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>245</X><Y>144</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>253</X><Y>138</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>255</X><Y>121</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>256</X><Y>116</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>260</X><Y>150</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>261</X><Y>148</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>264</X><Y>111</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>265</X><Y>109</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>268</X><Y>141</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>277</X><Y>152</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>282</X><Y>187</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>283</X><Y>189</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>288</X><Y>151</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>293</X><Y>142</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>294</X><Y>143</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>296</X><Y>179</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>297</X><Y>183</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>301</X><Y>145</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>302</X><Y>148</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>305</X><Y>156</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>306</X><Y>155</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>308</X><Y>142</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>309</X><Y>142</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>312</X><Y>149</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>313</X><Y>150</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>316</X><Y>145</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>317</X><Y>144</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>318</X><Y>145</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>320</X><Y>170</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>321</X><Y>170</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>326</X><Y>153</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>327</X><Y>154</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>335</X><Y>181</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>341</X><Y>260</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>342</X><Y>262</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>350</X><Y>142</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>351</X><Y>135</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>353</X><Y>179</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>357</X><Y>183</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>358</X><Y>184</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>362</X><Y>152</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>367</X><Y>145</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>368</X><Y>146</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>372</X><Y>169</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>374</X><Y>169</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>375</X><Y>170</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>379</X><Y>215</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>380</X><Y>214</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>386</X><Y>187</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>387</X><Y>183</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>390</X><Y>207</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>391</X><Y>206</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>395</X><Y>197</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>396</X><Y>195</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>400</X><Y>244</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>401</X><Y>243</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>414</X><Y>168</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>415</X><Y>166</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>416</X><Y>166</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>417</X><Y>168</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content/>
+		<Color/>
+		<Bold/>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+<SamplePoint>
+	<Coord><X>431</X><Y>215</Y></Coord>
+	<OnXGrid>false</OnXGrid><OnYGrid>false</OnYGrid>
+	<AnnotationOnSample>
+		<Content>8.9</Content>
+		<Color>0</Color>
+		<Bold>false</Bold>
+		<Type/>
+	</AnnotationOnSample>
+	<SalienceOnSample/>
+</SamplePoint>
+</LineGraph>
+</InformationGraphic>
