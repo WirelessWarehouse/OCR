@@ -31,6 +31,7 @@ public class OCRX {
 	public static void main(String args[]) throws Exception { 
 		OCRX app = new OCRX();
         BWImageG image;
+				OCR ocr = new OCR();
         URL u = new URL(args[0]);
         BufferedImage jImage = ImageIO.read(u);
 		image = new BWImageG();
@@ -52,7 +53,6 @@ public class OCRX {
                    int [][] blob = image.getBlobImage(i);
                    int hi = Array.getLength(blob);
                    int wi = Array.getLength(blob[0]);
-									 OCR ocr = new OCR();
 									 char character = ocr.getChar(blob,hi,wi);
                    image.save("blob.pgm",blob,hi,wi);
                    for (int r = 0;r < hi;r++) {
