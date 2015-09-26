@@ -1,0 +1,9 @@
+
+
+
+public class RightProcessor{
+  
+  RightProcessor(){
+    
+  }
+}
