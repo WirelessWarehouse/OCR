@@ -53,7 +53,7 @@ public class OCRX {
                    int [][] blob = image.getBlobImage(i);
                    int hi = Array.getLength(blob);
                    int wi = Array.getLength(blob[0]);
-									 char character = ocr.getChar(blob,hi,wi);
+									 char character = ocr.getChar(blob);
                    image.save("blob.pgm",blob,hi,wi);
                    for (int r = 0;r < hi;r++) {
                       for (int c = 0; c < wi; c++) {
