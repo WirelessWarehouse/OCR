@@ -5,8 +5,8 @@ public class RightProcessor{
 
   int[][] RightProcessor(int [][] glyph){
       int [][] returnGlyph;
-      int hi = Array.getLength(blob);
-      int wi = Array.getLength(blob[0]);
+      int hi = Array.getLength(glyph);
+      int wi = Array.getLength(glyph[0]);
 
       // initialize return matrix
       for(int i = 0; i < hi; i++) {
