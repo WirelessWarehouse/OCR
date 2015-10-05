@@ -14,10 +14,19 @@ public class Seg_Form {
   
 }
 public class SegmentScan{
-  
-  // data structure for Segment Data (to be stored for lower level processing)
+  // This is where the work is done!
   
   SegmentScan(){
+    SegmentScan piece[unsigned int of_Puzzle=8] = new SegmentScan; //index may change; an object will hold all segments to a glyph
+    }
     
-  }
+    void public update() {
+      if (present.x_co < leftMost) leftMost= present.x_co; 
+      
+      if (present.y_co > rightMost)rightMost= present.y_co;
+      
+      if (present.currLine > longestLine)
+            longestLine = present.currLine; 
+            
+    }
 }
